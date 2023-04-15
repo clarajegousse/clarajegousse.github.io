@@ -1,0 +1,7 @@
+# Forever banished!
+*.DS_Store
+*.Rhistory
+
+# Ignore default images
+assets/css/images/bg.jpg
+images/me.jpg
